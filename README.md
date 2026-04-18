@@ -33,7 +33,7 @@ A powerful **Power BI dashboard** to visualize and analyze your GitHub data — 
 ## 🖼️ Dashboard Preview
 
 ###  Overview Page
-![Overview](./preview.png)
+![Overview](./Preview.png)
 
 ###  Commit Activity
 ![Commits](./assets/preview-commits.png)

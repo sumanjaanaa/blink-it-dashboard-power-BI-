@@ -35,15 +35,6 @@ A powerful **Power BI dashboard** to visualize and analyze your GitHub data — 
 ###  Overview Page
 ![Overview](./Preview.png)
 
-###  Commit Activity
-![Commits](./assets/preview-commits.png)
-
-###  User Insights
-![User Insights](./assets/preview-user.png)
-
-###  Repository Breakdown
-![Repositories](./assets/preview-repos.png)
-
 >  *Tip: Replace the above images with actual screenshots from your Power BI report (`.pbix`) file.*
 
 ---
@@ -59,14 +50,14 @@ A powerful **Power BI dashboard** to visualize and analyze your GitHub data — 
 
 ## 📦 Setup Instructions
 
-### 1️⃣ Prerequisites
+###  Prerequisites
 
 - Install **Power BI Desktop**
 - GitHub Personal Access Token
 
 ---
 
-### 2️⃣ Connect to GitHub API
+###  Connect to GitHub API
 
 1. Open Power BI Desktop  
 2. Click **Get Data → Web**  
